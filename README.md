@@ -10,9 +10,6 @@
 
 ## Görseller
 
-### Enter a Word
-![Ekran görüntüsü 2025-03-13 211034](https://github.com/user-attachments/assets/6cbf5bbc-6caf-4009-80ac-19ce22d54f4b)
-
 ### Translate
 ![Ekran görüntüsü 2025-03-13 211034](https://github.com/user-attachments/assets/82d6e825-8aed-4759-a2e0-7c600f57e4fb)
 
